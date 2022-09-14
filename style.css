@@ -634,7 +634,7 @@ a:active {
   background: #fafafa;
   clip-path: polygon(0 0, 20% 5%, 100% 0, 100% 100%, 80% 95%, 0 100%);
   z-index: 5;
-  background: #fafafa url(https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Images/Author_BG.jpg) center right no-repeat;
+  background: #fafafa url(https://raw.githubusercontent.com/rickthor7/murrotal/main/src/99bb2437-6905-4ae2-b985-6892d723ab88.jpeg) center right no-repeat;
   background-attachment: fixed;
 }
 
@@ -929,7 +929,7 @@ a:active {
  *****************/
 
 #contact {
-  background: #181d23 url(https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Images/envelope.svg?sanitize=true) no-repeat right;
+  background: #181d23 url(https://raw.githubusercontent.com/rickthor7/murrotal/main/src/man-muslim-svgrepo-com.svg?sanitize=true) no-repeat right;
   clip-path: polygon(0 0, 20% 100px, 100% 0, 100% 100%, 0 100%);
   color: #fafafa;
   min-height: 100vh;
