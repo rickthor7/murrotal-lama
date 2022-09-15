@@ -127,8 +127,8 @@ const About = props => {
     React.createElement("p", { className: "separator" })), /*#__PURE__*/
 
     React.createElement("div", { className: "desc" }, /*#__PURE__*/
-    React.createElement("h4", { className: "subtitle" }, "I'm a web developer."), /*#__PURE__*/
-    React.createElement("p", null, "Saya memulai project ini mulai dari tahun 2022 bulan agustus awal karena terinspirasi dari buku audiosonic yang menjelaskan tentang dahsyatnya ingatan pendengaran"), /*#__PURE__*/
+    React.createElement("h4", { className: "subtitle" }, "Saya adalah Web Developer."), /*#__PURE__*/
+    React.createElement("p", null, "Saya memulai project ini mulai dari tahun 2021 bulan agustus awal dengan tujuan memberi waktu tambahan untuk murajaah AlQuran"), /*#__PURE__*/
 
 
 
@@ -140,13 +140,13 @@ const About = props => {
 
     React.createElement("div", { className: "desc" }, /*#__PURE__*/
     React.createElement("h4", { className: "subtitle" }, "My Socmed."), /*#__PURE__*/
-    React.createElement("p", null, "Instagram@iam.rickthor7 whatsapp+6281234397578 twitter@rickthor7."), /*#__PURE__*/
+    React.createElement("p", null, "Hanyalah anak yang suka ngopi tapi berusaha untuk tetap istiqomah dalam mengaji"), /*#__PURE__*/
 
 
 
 
 
-    React.createElement("p", null, "User interfaces, brochures, books, branding... You name it! As I mentioned, creating pretty things is particularly important for me."))))));
+    React.createElement("p", null, "Selamat menikmati murrotal 30 Juz buatan saya, Semiga bermanfaat dan dapat menambah pahala jariah untuk kita semua."))))));
 
 
 
@@ -215,12 +215,12 @@ const Projects = props => {
     React.createElement("section", { id: "projects" }, /*#__PURE__*/
     React.createElement("div", { className: "projects-container" }, /*#__PURE__*/
     React.createElement("div", { className: "heading" }, /*#__PURE__*/
-    React.createElement("h3", { className: "title" }, "My Works"), /*#__PURE__*/
+    React.createElement("h3", { className: "title" }, "Daftar Imam"), /*#__PURE__*/
     React.createElement("p", { className: "separator" }), /*#__PURE__*/
-    React.createElement("p", { className: "subtitle" }, "Here's a list of ", /*#__PURE__*/
-    React.createElement("u", null, "most"), " of the projects I've been working on lately. All of these were built during my coding camp adventure on",
+    React.createElement("p", { className: "subtitle" }, "Dibawah ini adalah list Imam ", /*#__PURE__*/
+    React.createElement("u", null, "most"), " yang ada diwebsite ini. Untuk requests bisa menghubungi saya lewat link dibawah",
     ' ', /*#__PURE__*/
-    React.createElement("a", { href: "https://www.freecodecamp.org/", target: "_blank", rel: "noopener noreferrer" }, "freeCodeCamp"), ", where I've been coding for almost 7 months non-stop until I completed all the projects required to get my Full-Stack Developer certification.")), /*#__PURE__*/
+    React.createElement("a", { href: "http://wa.me/621234397578", target: "_blank", rel: "noopener noreferrer" }, "Whatsapp"), ", juga kritik dan saran saya akan sangat terbuka.")), /*#__PURE__*/
 
 
 
@@ -229,44 +229,44 @@ const Projects = props => {
 
     React.createElement("div", { className: "projects-wrapper" }, /*#__PURE__*/
     React.createElement(Project, {
-      title: "Anonymous Message Board.",
-      img: 'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/AnonMsgBoard.jpg',
-      tech: "js css react node",
-      link: "https://yagoestevez-anon-msg-board.glitch.me/",
-      repo: "https://github.com/yagoestevez/anonymous-message-board" }, /*#__PURE__*/
+      title: "Syaikh Al-Khusari.",  
+      img: 'https://raw.githubusercontent.com/rickthor7/murrotal/main/src/imam/alkhusary.jpg',
+      tech: "",
+      link: "https://www.rickthor7.my.id/murrotal_alkhusary/",
+      repo: "https://www.rickthor7.my.id/murrotal_alkhusary/" }, /*#__PURE__*/
 
-    React.createElement("small", null, "Built using Node, Express, MongoDB, CSS + Bulma, React.js and React Router."), /*#__PURE__*/
-
-
-    React.createElement("p", null, "This is a full-stack website that I made which lets the users read and post anonymous messages and replies.")), /*#__PURE__*/
+    React.createElement("small", null, "Beliau dilahirkan pada 17 September 1917 di sebuah desa bernama Shubra an-Namlah, Thanta, provinsi Gharbiyyah, Mesir."), /*#__PURE__*/
 
 
-
-
-    React.createElement(Project, {
-      title: "Stock Price Checker.",
-      img: 'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/StockPriceChecker.jpg',
-      tech: "js node css",
-      link: "https://yagoestevez-stock-price-checker.glitch.me/",
-      repo: "https://github.com/yagoestevez/fcc-stock-price-checker" }, /*#__PURE__*/
-
-    React.createElement("small", null, "Built using Node, Express, MongoDB, JS + jQuery + Axios, CSS + Bootstrap and Pug."), /*#__PURE__*/
-
-
-    React.createElement("p", null, "Another full-stack website to check the current value of any requested stock in the market.")), /*#__PURE__*/
+    React.createElement("p", null, "Bacaannya pelan, tenang, penuh dengan penghayatan. Membuat orang yang mendengarkannya terbawa dalam lantunan ayat-ayat yang dibacanya. Orang yang tak paham artinya pun seakan mampu bisa menghayati makna dan isi pesan bacaan al-Qur'an yang dibacakannya.")), /*#__PURE__*/
 
 
 
 
     React.createElement(Project, {
-      title: "Personal Library.",
-      img: 'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/PersonalLibrary.jpg',
-      tech: "js node css",
-      link: "https://yagoestevez-personal-library.glitch.me/",
-      repo: "https://github.com/yagoestevez/fcc-personal-library" }, /*#__PURE__*/
+      title: "Saad Al Ghamidi.",
+      img: 'https://raw.githubusercontent.com/rickthor7/murrotal/main/src/imam/saadalghamidi.jpg',
+      tech: " ",
+      link: "www.rickthor7.my.id/murrotal_alghamidi",
+      repo: "www.rickthor7.my.id/murrotal_alghamidi" }, /*#__PURE__*/
 
-    React.createElement("small", null, "Built using Node, Express, MongoDB, JS + jQuery, CSS + Bootstrap and Pug."), /*#__PURE__*/
-    React.createElement("p", null, "A full-stack website to store book titles and comments to each book into a remote database.")), /*#__PURE__*/
+    React.createElement("small", null, "Beliau dilahirkan pada tanggal 19 Mei tahun 1967 atau 1387 H di kota Dammam, Mantiqah Syarqiyah. Di seluruh dunia Islam, beliau dikenal sebagai seorang qari’ Al Qur’an."), /*#__PURE__*/
+
+
+    React.createElement("p", null, "Pada tahun 1990, beliau telah menghafal 30 Juz Al Quran. Bacaan Al Quran beliau sangat mudah dicirikan dengan lantunan suara yang sangat indah. Tahun 1415 dan tahun 1417, ia mendapat gelar Sarjana Muda dari sanad qira’ah diambil dari riwayat Hafsh ‘an Ashim.")), /*#__PURE__*/
+
+
+
+
+    React.createElement(Project, {
+      title: "Syaikh Ali Jaber.",
+      img: 'https://raw.githubusercontent.com/rickthor7/murrotal/main/src/imam/alijaber.png',
+      tech: " ",
+      link: "www.rickthor7.my.id/murrotal_alijaber",
+      repo: "www.rickthor7.my.id/murrotal_alijaber" }, /*#__PURE__*/
+
+    React.createElement("small", null, "Syekh Ali Jaber merupakan salah satu ulama tanah asal Madinah, Arab Saudi. Beliau lahir tanggal 3 Februari 1976 dengan nama Ali Saleh Mohammed Ali Jaber dan tutup usia pada 14 Januari 2021 pada umur 44 tahun di Rumah Sakit Yarsi, Jakarta Pusat."), /*#__PURE__*/
+    React.createElement("p", null, "Syek Ali Jaber pernah menjadi juri pada Hafiz Indonesia dan menjadi dai di berbagai stasiun televisi nasional. Selain dakwah, Syekh Ali Jaber juga hadir dalam rangkaian program televisi seperti Hafiz Indonesia, Damai Indonesiaku, dan Kultum Bersama Syekh Ali Jaber. Film pun pernah beliau lakoni, yakni Surga Menanti tahun 2016.")), /*#__PURE__*/
 
 
 
