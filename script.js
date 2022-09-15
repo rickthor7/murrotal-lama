@@ -111,11 +111,11 @@ const About = props => {
 
     React.createElement("div", { className: "desc full" }, /*#__PURE__*/
     React.createElement("h4", { className: "subtitle" }, "Made By M.thoriq."), /*#__PURE__*/
-    React.createElement("p", null, "Website alquran ini dibuat bertujuan khususnya bagi author sendiri untuk memudahkan murajaah Alquran."), /*#__PURE__*/
+    React.createElement("p", null, "Website murrotal alquran ini dibuat bertujuan khususnya bagi author sendiri untuk memudahkan murajaah Alquran."), /*#__PURE__*/
 
 
 
-    React.createElement("p", null, "Semoga dengan adanya website ini, kita dimudahkan untuk menghafal/murajaah alquran agar semakin lancar&berkah")), /*#__PURE__*/
+    React.createElement("p", null, "Semoga dengan adanya website ini, kita dimudahkan untuk menghafal/murajaah alquran agar semakin lancar & barokah")), /*#__PURE__*/
 
 
 
@@ -140,13 +140,13 @@ const About = props => {
 
     React.createElement("div", { className: "desc" }, /*#__PURE__*/
     React.createElement("h4", { className: "subtitle" }, "My Socmed."), /*#__PURE__*/
-    React.createElement("p", null, "Hanyalah anak yang suka ngopi tapi berusaha untuk tetap istiqomah dalam mengaji"), /*#__PURE__*/
+    React.createElement("p", null, "Hanyalah remaja yang suka ngopi tapi berusaha untuk tetap istiqomah dalam mengaji"), /*#__PURE__*/
 
 
 
 
 
-    React.createElement("p", null, "Selamat menikmati murrotal 30 Juz buatan saya, Semiga bermanfaat dan dapat menambah pahala jariah untuk kita semua."))))));
+    React.createElement("p", null, "Selamat menikmati murrotal 30 Juz buatan saya, Semoga bermanfaat dan dapat menambah pahala jariah untuk kita semua."))))));
 
 
 
@@ -272,24 +272,28 @@ const Projects = props => {
 
 
     React.createElement(Project, {
-      title: "Issue Tracker.",
-      img: 'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/IssueTracker.jpg',
-      tech: "js node css",
-      link: "https://yagoestevez-issue-tracker.glitch.me/",
-      repo: "https://github.com/yagoestevez/fcc-issue-tracker" }, /*#__PURE__*/
+      title: "Misyari Rasyed.",
+      img: 'https://raw.githubusercontent.com/rickthor7/murrotal/main/src/imam/misyarirasyed.jpg',
+      tech: " ",
+      link: "www.rickthor7.my.id/murrotal_rsyed",
+      repo: "www.rickthor7.my.id/murrotal_rsyed" }, /*#__PURE__*/
 
-    React.createElement("small", null, "Built using Node, Express, MongoDB, JS + jQuery, CSS + Bootstrap and Pug."), /*#__PURE__*/
-    React.createElement("p", null, "Yet another full-stack app to save and manage technical issues to be fixed.")), /*#__PURE__*/
+    React.createElement("small", null, "Misyari Rasyid Al-'Afasi. Nama lengkapnya Shaikh Mishary Rashid Ghareeb Mohammed Rashid Al-Afasy adalah seorang qari, hafiz dan imam berkebangsaan Kuwait. Beliau banyak dikenal karena resital Al-Quran dan nasyid yang dilantunkannya."), /*#__PURE__*/
+    React.createElement("p", null, "Mishary Al Afasy adalah Imam dari Grand Mosque (Kuwait), dan setiap Ramadhan ia memimpin Shalat Taraweh di Masjid ini. Beliau sering memimpin doa Tarawih di UAE dan negara tetangga lainnya di Teluk. Belua memiliki 2 Saluran Ruang khusus dalam pembacaan Al-Qur'an, yang pertama adalah Alafasy TV dan yang kedua adalah Alafasy Q")), /*#__PURE__*/
 
+                        
+                        
+                        
+                        
     React.createElement(Project, {
-      title: "Metric-Imperial Converter.",
-      img: 'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/MetricImperialConverter.jpg',
-      tech: "js node css",
-      link: "https://yagoestevez-metric-imperial-converter.glitch.me/",
-      repo: "https://github.com/yagoestevez/fcc-metric-imperial-converter/" }, /*#__PURE__*/
+      title: "As-Sudais.",
+      img: 'https://raw.githubusercontent.com/rickthor7/murrotal/main/src/imam/assudais.jpg',
+      tech: " ",
+      link: "https://www.rickthor7.my.id/murrotal_alijaber/www.rickthor7.my.id/murrotal_sdais",
+      repo: "https://www.rickthor7.my.id/murrotal_alijaber/www.rickthor7.my.id/murrotal_sdais" }, /*#__PURE__*/
 
-    React.createElement("small", null, "Built using Node, Express, JS + jQuery, CSS + Bootstrap and Pug."), /*#__PURE__*/
-    React.createElement("p", null, "Another full-stack for converting values from the Internation System of Units (Metric) into the imperial units.")), /*#__PURE__*/
+    React.createElement("small", null, "Ulama yang memiliki nama lengkap Abdurrahman bin Abdul Aziz bin Muhammad as-Sudais ini dikenal luas di Indonesia sebagai seorang pakar tilawah Al-Qur’an. Buktinya, suara beliau sering dijadikan murottal yang diputar karena terkenal dengan suara yang khas dan merdu."), /*#__PURE__*/
+    React.createElement("p", null, "Beliau pertama kali diangkat menjadi imam sekaligus khatib di Masjidil Haram pada tahun 1404 Hijriah, pada usia yang masih sangat muda nan belia yakni 22 tahun. Setelahnya menjadi imam shalat pertama kalinya di masjid paling suci bagi ummat Islam tersebut pada 22 Sya’ban 1404 H yang lalu.")), /*#__PURE__*/
 
 
 
