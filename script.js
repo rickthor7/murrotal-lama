@@ -12,7 +12,7 @@ const Menu = props => {
     React.createElement("div", { className: "menu-items" }, /*#__PURE__*/
     React.createElement("ul", null, /*#__PURE__*/
     React.createElement("li", null, /*#__PURE__*/
-    React.createElement("a", { href: "#welcome-section", onClick: props.toggleMenu }, "HOME")), /*#__PURE__*/
+    React.createElement("a", { href: "https://www.rickthor7.my.id/IslamicMenu/", onClick: props.toggleMenu }, "MENU, /*#__PURE__*/
 
 
 
@@ -86,7 +86,7 @@ const Header = props => {
 
     React.createElement("div", { className: "buttons" }, /*#__PURE__*/
     React.createElement("a", { href: "#projects" }, "go to murrotal"), /*#__PURE__*/
-    React.createElement("a", { href: "#contact", className: "cta" }, "get in touch")))));
+    React.createElement("a", { href: "#contact", className: "cta" }, "Kontak Saya")))));
 
 
 
@@ -110,7 +110,7 @@ const About = props => {
     React.createElement("p", { className: "separator" })), /*#__PURE__*/
 
     React.createElement("div", { className: "desc full" }, /*#__PURE__*/
-    React.createElement("h4", { className: "subtitle" }, "Made By M.thoriq."), /*#__PURE__*/
+    React.createElement("h4", { className: "subtitle" }, "Made By Muhammad thoriq"), /*#__PURE__*/
     React.createElement("p", null, "Website murrotal alquran ini dibuat bertujuan khususnya bagi author sendiri untuk memudahkan murajaah Alquran."), /*#__PURE__*/
 
 
@@ -123,7 +123,7 @@ const About = props => {
 
 
     React.createElement("div", { className: "title" }, /*#__PURE__*/
-    React.createElement("h3", null, "About Author"), /*#__PURE__*/
+    React.createElement("h3", null, "Tentang Author"), /*#__PURE__*/
     React.createElement("p", { className: "separator" })), /*#__PURE__*/
 
     React.createElement("div", { className: "desc" }, /*#__PURE__*/
