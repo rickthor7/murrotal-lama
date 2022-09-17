@@ -17,17 +17,17 @@ const Menu = props => {
 
 
     React.createElement("li", null, /*#__PURE__*/
-    React.createElement("a", { href: "#about", onClick: props.toggleMenu }, "ABOUT")), /*#__PURE__*/
+    React.createElement("a", { href: "https://www.rickthor7.my.id/IslamicMenu/Html157938/", onClick: props.toggleMenu }, "ALQURAN TERJEMAH")), /*#__PURE__*/
 
 
 
     React.createElement("li", null, /*#__PURE__*/
-    React.createElement("a", { href: "#projects", onClick: props.toggleMenu }, "PORTFOLIO")), /*#__PURE__*/
+    React.createElement("a", { href: "https://www.rickthor7.my.id/IslamicMenu/Htmlarchive_1594790023_0afb3e678d/Home.html", onClick: props.toggleMenu }, "TAHLIL ONLINE")), /*#__PURE__*/
 
 
 
     React.createElement("li", null, /*#__PURE__*/
-    React.createElement("a", { href: "#contact", onClick: props.toggleMenu }, "CONTACT"))), /*#__PURE__*/
+    React.createElement("a", { href: "https://www.rickthor7.my.id/", onClick: props.toggleMenu }, "HOME WEBSITE"))), /*#__PURE__*/
 
 
 
