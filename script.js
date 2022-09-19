@@ -12,7 +12,7 @@ const Menu = props => {
     React.createElement("div", { className: "menu-items" }, /*#__PURE__*/
     React.createElement("ul", null, /*#__PURE__*/
     React.createElement("li", null, /*#__PURE__*/
-    React.createElement("a", { href: "https://www.rickthor7.my.id/IslamicMenu/", onClick: props.toggleMenu }, "MENU, /*#__PURE__*/
+    React.createElement("a", { href: "https://www.rickthor7.my.id/IslamicMenu/", onClick: props.toggleMenu }, "MENU", /*#__PURE__*/
 
 
 
